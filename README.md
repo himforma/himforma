@@ -1,4 +1,4 @@
-# Github HIMFORMA
+# Github HIMFORMA UPGRIS
 
 Official Github HIMFORMA UPGRIS (Himpunan Mahasiswa Informatika Universitas PGRI Semarang).
 
