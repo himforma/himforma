@@ -12,7 +12,7 @@ Official Github HIMFORMA UPGRIS (Himpunan Mahasiswa Informatika Universitas PGRI
   
 ## Tentang
 
-Himpunan Mahasiswa Informatika (HIMFORMA) Universitas PGRI Semarang merupakan salah satu lembaga kemahasiswaan di lingkungan Universitas PGRI Semarang (UPGRIS). Tujuan Github ini untuk membantu mahasiswa Informatika dibidang akademik khususnya programming dan berhubungan dengan source code atau dokumentasi tutorial yang diupload di channel youtube [himforma_upgris](https://www.youtube.com/channel/UCxnZ7xtTv4G3y1vLF-2pWbA).
+Himpunan Mahasiswa Informatika (HIMFORMA) Universitas PGRI Semarang merupakan salah satu lembaga kemahasiswaan di lingkungan Universitas PGRI Semarang (UPGRIS). Tujuan adanya Github ini untuk membantu mahasiswa Informatika dibidang akademik khususnya programming serta sebagai penampung source code atau dokumentasi tutorial yang diupload di channel youtube [himforma_upgris](https://www.youtube.com/channel/UCxnZ7xtTv4G3y1vLF-2pWbA).
 
 <img src="https://user-images.githubusercontent.com/99253129/211152200-55e0c548-5e9d-4fd9-be79-0676e18540fe.png" alt="LOGO UPGRIS" width="30%"/>
 
