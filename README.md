@@ -6,7 +6,7 @@ Official Github HIMFORMA UPGRIS (Himpunan Mahasiswa Informatika Universitas PGRI
 
 - [**Daftar Rekomendasi Channel Youtube & Grup Telegram Indonesia**](https://github.com/himforma/konten/tree/main/Daftar%20Rekomendasi%20Channel%20Youtube%20%26%20Grup%20Telegram%20Indonesia)
 
-  - [Daftar Channel Youtube Programming & Teknologi Seluruh Indonesia] https://github.com/himforma/konten/tree/main/Daftar%20Rekomendasi%20Channel%20Youtube%20%26%20Grup%20Telegram%20Indonesia/channel-youtube-programming-dan-teknologi-indonesia
+  - [Daftar Channel Youtube Programming & Teknologi Seluruh Indonesia] (https://github.com/himforma/konten/tree/main/Daftar%20Rekomendasi%20Channel%20Youtube%20%26%20Grup%20Telegram%20Indonesia/channel-youtube-programming-dan-teknologi-indonesia)
   - [Daftar Grup Telegram Programming & Teknologi Seluruh Indonesia](https://github.com/himforma/konten/tree/main/Daftar%20Rekomendasi%20Channel%20Youtube%20%26%20Grup%20Telegram%20Indonesia/List-All-Programming-Telegram-Group)
   
 ## Tentang
