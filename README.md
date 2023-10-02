@@ -9,7 +9,9 @@ Official Github HIMFORMA UPGRIS (Himpunan Mahasiswa Informatika Universitas PGRI
   - [Daftar Channel Youtube Programming & Teknologi Seluruh Indonesia](https://github.com/himforma/Daftar-Rekomendasi-Channel-Youtube-Grup-Telegram-Indonesia/tree/main/channel-youtube-programming-dan-teknologi-indonesia)
 
   - [Daftar Grup Telegram Programming & Teknologi Seluruh Indonesia](https://github.com/himforma/Daftar-Rekomendasi-Channel-Youtube-Grup-Telegram-Indonesia/tree/main/List-All-Programming-Telegram-Group)
-  
+
+- [**Compiled vs Interpreted**](https://github.com/himforma/Compiled-vs-Interpreted)
+
 ## Tentang
 
 Himpunan Mahasiswa Informatika (HIMFORMA) Universitas PGRI Semarang merupakan salah satu lembaga kemahasiswaan di lingkungan Universitas PGRI Semarang (UPGRIS). Tujuan adanya Github ini untuk membantu mahasiswa Informatika dibidang akademik khususnya programming serta sebagai penampung source code atau dokumentasi tutorial yang diupload di channel youtube [himforma_upgris](https://www.youtube.com/channel/UCxnZ7xtTv4G3y1vLF-2pWbA).
